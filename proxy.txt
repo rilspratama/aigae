@@ -1,0 +1,4 @@
+http://ip:port@username:password
+socks5://proxy2.example.com:1080@user2:pass2
+socks4://proxy3.example.com:1080
+proxy4.example.com:8080
