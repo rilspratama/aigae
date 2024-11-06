@@ -119,7 +119,7 @@ To add or remove proxies:
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| TOKEN | Your Aigaea API token | Yes |
+| TOKEN | Your Aigaea token | Yes |
 | UID | Your Aigaea user ID | Yes |
 
 ## Troubleshooting
