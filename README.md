@@ -55,7 +55,7 @@ UID=your_uid_here
 ```shell
 localStorage.getItem("gaea_token")
 ```
-[![Devtools img](image-url)](https://i.ibb.co.com/HFYGNVf/devtools.png)
+![Devtools img](img/devtools.png)
 
 
 ## Proxy Format Examples
