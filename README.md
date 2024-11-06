@@ -2,6 +2,8 @@
 
 Multi-threaded network pinger for Aigaea using multiple proxies. This tool allows you to run concurrent ping requests through different proxies using HTTP, SOCKS4, or SOCKS5 protocols.
 
+Link register : [Here](https://app.aigaea.net/register?ref=gaBv4hsbaxZuD1)
+
 ## Features
 
 - 🚀 Multi-threading support - each proxy runs in its own thread
@@ -53,10 +55,10 @@ UID=your_uid_here
 ```shell
 localStorage.getItem("gaea_token")
 ```
+[![Devtools img](image-url)](https://i.ibb.co.com/HFYGNVf/devtools.png)
 
 
-
-### Proxy Format Examples
+## Proxy Format Examples
 
 ```text
 # With scheme and authentication
