@@ -65,7 +65,7 @@ class AigaeaPinger:
             "accept": "application/json",
             "content-type": "application/json",
             "origin": "https://app.aigaea.net",
-            "referer": "https://app.aigaea.net/",
+            "referer": "chrome-extension://cpjicfogbgognnifjgmenmaldnmeeeib",
             "accept-language": "en-US,en;q=0.9",
             "priority": "u=1, i"
         }
@@ -140,7 +140,7 @@ class AigaeaPinger:
             while self.running:
                 try:
                     payload = {
-                        "uid": self.user_uid,
+                        "uid": str(self.user_uid),
                         "browser_id": browser_id,
                         "timestamp": int(time.time()),
                         "version": "1.0.0"
